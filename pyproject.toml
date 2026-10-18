@@ -1,0 +1,32 @@
+[project]
+name = "brainrot-studio"
+version = "0.1.0"
+description = "Local multi-agent short-video studio powered by Google ADK and OpenRouter"
+requires-python = ">=3.12,<3.14"
+dependencies = [
+  "google-adk>=1.15,<3",
+  "fastapi>=0.115,<1",
+  "uvicorn[standard]>=0.34,<1",
+  "httpx>=0.28,<1",
+  "pydantic>=2.11,<3",
+  "python-dotenv>=1.1,<2",
+  "python-multipart>=0.0.20,<1",
+  "Pillow>=11,<13",
+  "faster-whisper>=1.2,<2",
+  "av>=15,<19", # PyAV 19 removed metadata_errors, still used by faster-whisper 1.2.
+  "beautifulsoup4>=4.13,<5",
+  "num2words>=0.5.14,<0.6",
+  "number-parser>=0.3.1,<0.4",
+  "yt-dlp>=2026.1",
+]
+
+[dependency-groups]
+dev = ["pytest>=8,<10", "pytest-asyncio>=1,<2", "ruff>=0.12,<1"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+asyncio_mode = "auto"
+pythonpath = ["."]
+
+[tool.ruff]
+line-length = 100

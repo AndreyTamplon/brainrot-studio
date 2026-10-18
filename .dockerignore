@@ -1,0 +1,17 @@
+references
+data
+.env
+.env.*
+.venv
+**/node_modules
+**/dist
+.git
+**/__pycache__
+tests
+
+outputs
+docs/implementation.md
+.pytest_cache
+.ruff_cache
+**/*.tsbuildinfo
+**/*.log

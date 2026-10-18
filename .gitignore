@@ -1,0 +1,24 @@
+.env
+.env.*
+!.env.example
+references/
+data/
+.venv/
+node_modules/
+dist/
+__pycache__/
+.pytest_cache/
+.ruff_cache/
+*.tsbuildinfo
+.DS_Store
+
+# Local development reports and generated artifacts
+/outputs/
+/docs/implementation.md
+*.log
+*.sqlite
+*.sqlite-*
+.coverage
+htmlcov/
+playwright-report/
+test-results/
