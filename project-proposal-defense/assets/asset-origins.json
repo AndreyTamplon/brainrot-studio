@@ -1,0 +1,52 @@
+[
+  {
+    "file": "vibes.gif",
+    "url": "https://about.fb.com/wp-content/uploads/2025/09/Vibes_header.gif",
+    "bytes": 10742417
+  },
+  {
+    "file": "coca-cola.jpg",
+    "url": "https://i.ytimg.com/vi/URT_pX74_qA/maxresdefault.jpg",
+    "bytes": 130261
+  },
+  {
+    "file": "eternaut.jpg",
+    "url": "https://cdn.securitylab.ru/upload/iblock/1e9/chluw1ygelkf9dyvkj5l6gswo7oomylt.jpg",
+    "bytes": 127132
+  },
+  {
+    "file": "holywater.png",
+    "url": "https://www.gstatic.com/bricks/image/f8a02e57-1951-4972-82dd-954049d48cc3.png",
+    "bytes": 535502
+  },
+  {
+    "file": "kion.jpg",
+    "url": "https://qp-storage.media.mts.ru/mts_media/images/materials/mainkulik.JPG",
+    "error": "HTTP Error 500: Internal Server Error"
+  },
+  {
+    "file": "manrope-0.ttf",
+    "url": "https://fonts.gstatic.com/s/manrope/v20/xn7_YHE41ni1AdIRqAuZuw1Bx9mbZk79FO_F.ttf",
+    "bytes": 94972
+  },
+  {
+    "file": "manrope-1.ttf",
+    "url": "https://fonts.gstatic.com/s/manrope/v20/xn7_YHE41ni1AdIRqAuZuw1Bx9mbZk7PFO_F.ttf",
+    "bytes": 95060
+  },
+  {
+    "file": "manrope-2.ttf",
+    "url": "https://fonts.gstatic.com/s/manrope/v20/xn7_YHE41ni1AdIRqAuZuw1Bx9mbZk4jE-_F.ttf",
+    "bytes": 95096
+  },
+  {
+    "file": "manrope-3.ttf",
+    "url": "https://fonts.gstatic.com/s/manrope/v20/xn7_YHE41ni1AdIRqAuZuw1Bx9mbZk4aE-_F.ttf",
+    "bytes": 94928
+  },
+  {
+    "file": "manrope-4.ttf",
+    "url": "https://fonts.gstatic.com/s/manrope/v20/xn7_YHE41ni1AdIRqAuZuw1Bx9mbZk59E-_F.ttf",
+    "bytes": 95688
+  }
+]

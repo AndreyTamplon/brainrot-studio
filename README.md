@@ -83,6 +83,7 @@ npm --prefix frontend run build
 - `scripts/` — установка пресетов, диагностика и проверки.
 - `tests/` — тесты Python.
 - `docs/` — архитектура, результаты проверок и источники.
+- `project-proposal-defense/` - [презентация для защиты Project Proposal](project-proposal-defense/README.md), ее исходники и материалы.
 
 ## Участники команды
 - Кривоносов Андрей, github username: AleksKids (https://github.com/AleksKids)

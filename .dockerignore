@@ -10,6 +10,7 @@ data
 tests
 
 outputs
+project-proposal-defense
 docs/implementation.md
 .pytest_cache
 .ruff_cache
